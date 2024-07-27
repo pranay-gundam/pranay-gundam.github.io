@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
-nav_order: 6
+nav_order: 1
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<h4>Carnegie Mellon University</h4>
+<ul>
+  <li><a target="_blank" href="http://www.cs.cmu.edu/~mgormley/courses/10601-s23/">Spring 2023, Introduction to Machine Learning (10-301/601), Prof Matt Gormley</a></li>
+  <li><a target="_blank" href="http://www.cs.cmu.edu/~mgormley/courses/10601-f22/">Fall 2022, Introduction to Machine Learning (10-301/601), Prof Matt Gormley & Prof Henry Chai</a></li>
+  <li><a target="_blank" href="../assets/pdf/21_260_Recitation Notes.pdf">Spring 2022, Differential Equations (21-260), Prof David Handron</a></li>
+  <li>Fall 2021, Differential Equations (21-260), Prof David Handron
+</li>
+  <li>Spring 2021, Differential Equations (21-260), Nikos Kolliopoulos</li>
+</ul>

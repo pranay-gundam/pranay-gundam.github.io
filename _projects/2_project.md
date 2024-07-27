@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: PhD Macro I Codebase
+description: Some code I wanted to write to help cement my understanding of concepts in ECON-GA 1025 (Phd Macroeconomics I) at NYU with Sargent and Ljungqvist.
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
+github: https://github.com/pranay-gundam/PhDMacro-I
 ---
 
 Every project has a beautiful feature showcase page.
