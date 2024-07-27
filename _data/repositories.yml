@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pranay-gundam
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - pranay-gundam/slum-lights
+  - pranay-gundam/PhDMacro-I
+  - pranay-gundam/nonlocal-munchkin
+  - pranay-gundam/blog-posts
+  - plug-ml/engine
+  - FRBNY-DSGE/DSGE.jl
+  - FRBNY-DSGE/SMC.jl
+  - FRBNY-DSGE/ModelConstructors.jl

@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m currently a research analyst at the New York Fed, working on the Dynamic Stochastic General Equilibrium (DSGE) team; as part of the group I lead the ongoing development of ModelConstructors.jl, SMC.jl, and DSGE.jl, which are open source packages that implement, estimate, and forecast DSGE models respectively.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I graduated from Carnegie Mellon University in 2023 with a dual degree: a B.S. in Economics & Mathematical Sciences and a B.S. in Computational Finance. I’m looking to apply for graduate school in economics. My economic research interests lie in macroeconomics with particular interests in spatial general equilibrium models, monetary policy, HANK, bayesian estimation methods, and building open source packages.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my academic interests I enjoy soccer, cooking, rock climbing, any anything related to sci-fi. Check out my blog for my thoughts on anything above.
