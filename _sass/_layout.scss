@@ -15,6 +15,14 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
+
+  h1 {
+    color: var(--global-highlight-text-color)
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Libre Baskerville', serif;
+  }
 }
 
 body.fixed-top-nav {
