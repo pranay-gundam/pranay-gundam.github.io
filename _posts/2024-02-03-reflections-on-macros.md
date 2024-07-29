@@ -1,7 +1,7 @@
 ---
 layout: post
 title: reflections on macro I and monkeying around with OLGs
-date: 2024-02-03 00:00:00
+date: 2024-02-03 13:28:00
 description: (All of the text of this post was written on December 25th, 2023 while the attached pdf has been edited recently)
 
 tags: econ-thoughts personal-updates
@@ -18,4 +18,4 @@ On that end I’ve attached some of the work that I wanted to look into after th
 
 In other news, I will be taking Analysis II again at NYU this spring semester (and after that probably won’t take any more classes to focus on apps and other personal projects, although who knows may do Macro II next spring if they offer it) which I have heard is not as bad as analysis at CMU so we shall see how that goes in a few weeks.
 
-<iframe src="{{ '/assets/pdf/state-names.pdf' | relative_url }}" width="100%" height="1000px"></iframe>
+<iframe src="{{ '/assets/pdf/OLG-Monkey.pdf' | relative_url }}" width="100%" height="1000px"></iframe>
