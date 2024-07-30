@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV and More
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV_072524.pdf
@@ -10,4 +10,3 @@ toc:
   sidebar: left
 ---
 
-hello
