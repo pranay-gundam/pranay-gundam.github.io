@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slum Mapping and Location Choice
-description: with background image
+description: Carnegie Mellon University, Teppers Honors Thesis
 img: assets/img/12.jpg
 importance: 1
 category: work

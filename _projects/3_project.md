@@ -1,12 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: nonlocal-munchkin
+description: Non-local multiplayer rendition of the card game Munchkin with game ai.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
-github: https://github.com/pranay-gundam/slum-lights
+github: https://github.com/pranay-gundam/nonlocal-munchkin
 ---
 
 Every project has a beautiful feature showcase page.
