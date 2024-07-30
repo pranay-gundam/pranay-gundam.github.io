@@ -13,12 +13,13 @@
       "region": "New York"
     }    
   },
+
   "work": [
     {
       "name": "Federal Research Bank of New York",
       "position": "Senior Research Analyst",
       "startDate": "2023-06-12",
-      "summary": "Work on the DSGE team under Marco Del Negro.",
+      "summary": "Work on the DSGE team under Marco Del Negro."
     }
   ],
   
