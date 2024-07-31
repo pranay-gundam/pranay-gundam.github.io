@@ -14,4 +14,4 @@ Before you get to the pdf though, I did want to talk about something in research
 
 Finally, I also wanted to talk about one specific detail that seems to be the case with a lot of the problems/models of real-world interactions I build: the level of abstraction from reality that I should keep it at. In my head, I know there's some sort of a tradeoff between adding yet another "lever" into a model, but so far, I've only tackled that issue with continuing to add levers until I get tired and then try to be satisfied with that end product, and I'm not sure if there's a more systematic way of figuring that out. At what point do we stop trying to chase reality, and do we continue to chase it even if it is actually feasible in the first place.
 
-<iframe src="{{ '/assets/pdf/Intercepting Moving Bodies in Space.pdf.pdf' | relative_url }}" width="100%" height="1000px"></iframe>
+<iframe src="{{ '/assets/pdf/Intercepting Moving Bodies in Space.pdf' | relative_url }}" width="100%" height="1000px"></iframe>
