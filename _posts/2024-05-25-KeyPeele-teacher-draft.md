@@ -10,7 +10,9 @@ categories:
 
 Back in high school, I watched a lot of Key and Peele. One of my favorite skits was "If We Treated Teachers Like Pro Athletes" (the video below).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYOg8EON29Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aYOg8EON29Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Even though this is a joke, this seems to me like a low-key intriguing idea that seems unexplored. In theory, since public schools are all government-controlled, we already have a big central organization that regulates the hiring and rules of the "league" (public elementary and secondary education).
 
