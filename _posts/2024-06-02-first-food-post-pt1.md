@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Food Post Pt. 1
+title: first food post pt. 1
 date: 2024-06-02 13:20:00
 description: 
 
