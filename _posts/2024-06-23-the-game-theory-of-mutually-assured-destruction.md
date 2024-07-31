@@ -8,7 +8,7 @@ tags: econ-thoughts
 categories:
 ---
 
-I have been getting a lot of ideas/questions from the Remembrance of Earth's Past series. One of the concept that shows up towards the end of the second book, The Dark Forest, and is discussed in a lot more detail in the third book, Death's End, is the deterrence through mutually assured destruction or MAD.
+I have been getting a lot of ideas/questions from the Remembrance of Earth's Past series. One of the concepts that shows up towards the end of the second book, The Dark Forest, and is discussed in a lot more detail in the third book, Death's End, is the deterrence through mutually assured destruction or MAD.
 
 One quick tangent: I searched up what exactly the definition of MAD entails and although the definition of the terminology itself should apply, the term itself in the context of what it was made for applies specifically to mutually assured destruction through nuclear weapons with a first strike against a nation with second strike capabilities. So I'm not super sure if MAD the best term to describe what was happening in Death's End since it was only one side threatening the destruction of both parties, in the book they call it simply "Dark Forest Deterrence" but for the sake of this post I'll continue to call it MAD just because it does have logical parallels to the origin of the term (and also MAD is fewer characters to type out each time)
 
