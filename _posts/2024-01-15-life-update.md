@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024 life update and what is to come
-date: 2023-01-15 14:18:00
+date: 2024-01-15 14:18:00
 description: 
 
 tags: personal-updates
