@@ -16,12 +16,12 @@ The thing that I have been most interested about recently but have yet to been a
 
 To make the above setup more precise, there are:
 
-- N many Firms, $\left\{F_i\right\}^N_{i=1}$.
-- M many Workers, $\left\{h_i\right\}^M_{i=1}$.
+- N many Firms, $$\left\{F_i\right\}^N_{i=1}$$.
+- M many Workers, $$\left\{h_i\right\}^M_{i=1}$$.
 - In the discrete location case, we define a metric space on a set S of K many locations.
 - Each location $S_i$  has certain properties such as population density and availability of leisure activities that may be relevant to the worker’s utility function.
 
-As of now, we’ve fixed the firms location choice problem (something that could be changed in the future) but the worker will solve the maximization problem $\max_{i,j}u(S_i, F_j)$.
+As of now, we’ve fixed the firms location choice problem (something that could be changed in the future) but the worker will solve the maximization problem $$\max_{i,j}u(S_i, F_j)$$.
 
 I’ve thought of a few more places where I can modify the current setup to add more functionality. Features for online vs static equilibrium, visualizing the model, including other analytics, adding a firm optimization problem, and a handful more.
 
