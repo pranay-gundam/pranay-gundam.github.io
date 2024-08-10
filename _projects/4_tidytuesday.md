@@ -3,7 +3,7 @@ layout: page
 title: TidyTuesday
 description: Script for running regressions on random data series and generating automatic analysis.
 img: assets/img/7.jpg
-importance: 3
+importance: 4
 category: work
 github: https://github.com/pranay-gundam/TidyTuesday
 ---
