@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: TidyTuesday
+description: Script for running regressions on random data series and generating automatic analysis.
+img: assets/img/7.jpg
 importance: 3
-category: fun
+category: work
+github: https://github.com/pranay-gundam/TidyTuesday
 ---
 
 Every project has a beautiful feature showcase page.
