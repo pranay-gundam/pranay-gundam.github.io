@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /contact/
-title: Subscribe to get email notifications for new blog posts and more!
+title: Contact
 nav: true
 nav_order: 6
 ---
+
+<h2>Subscribe to get email notifications for new blog posts and more!</h2>
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
