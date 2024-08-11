@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Contact/
+permalink: /contact/
 title: Subscribe to get email notifications for new blog posts and more!
 nav: true
 nav_order: 6
