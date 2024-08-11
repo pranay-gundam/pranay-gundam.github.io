@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Contact/
-title: Contact
+title: Subscribe to get email notifications for new blog posts and more!
 nav: true
 nav_order: 6
 ---
@@ -9,13 +9,13 @@ nav_order: 6
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        #mc_embed_signup{background:#f2f0ea; false;clear:center; font:14px "Libre Baskerville", serif; width: px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
     <form action="https://github.us14.list-manage.com/subscribe/post?u=5e123f82ec22d56a5ae46b63b&amp;id=50f4e808cb&amp;f_id=00ba53e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe for email notifications for new blog posts and more!</h2>
+        <div id="mc_embed_signup_scroll">
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
         <div id="mce-responses" class="clear foot">
