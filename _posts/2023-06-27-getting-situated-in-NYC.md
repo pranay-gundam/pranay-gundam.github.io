@@ -6,6 +6,7 @@ description:
 
 tags: personal-updates tidy-tuesday
 categories:
+giscus_comments: true
 ---
 
 After quite the hectic week, which started with a three-day road trip from Dallas to New York City, I've finally managed to settle into New York City (only to hear about a guy getting shot outside my Airbnb 30 minutes before I was leaving for work on the first day). The biggest difference compared to anywhere else I've lived seems to be the commute time. A 30-minute commute (to any place, not just work) seems to be a minimum, which is in stark contrast to basically a 30-minute maximum commute in Pittsburgh.
