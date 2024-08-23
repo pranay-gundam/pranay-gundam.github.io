@@ -6,6 +6,7 @@ description:
 
 tags: econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 I've mentioned it in passing before but I am currently taking a macro econ class at NYU with Thomas Sargent and Lars Ljungqvist. A common theme when we want to look at problems from a third point view (rather than from the perspective of a firm or an agent) in order to consider overall social utility is to create this imaginary entity called the benevolent social planner.

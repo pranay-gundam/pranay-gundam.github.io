@@ -6,6 +6,7 @@ description:
 
 tags: personal-updates econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 It’s been a few months now since I’ve moved to NYC and I’ve realized a big issue: having time to think about projects and stuff I want to take on but not having enough time to really thoroughly address everything. So far, I have to deal with a busy time at work, a PhD Macroecon class (that I want to be very diligent about), and bunch of interesting ideas that I really want to do but don’t have enough time for.

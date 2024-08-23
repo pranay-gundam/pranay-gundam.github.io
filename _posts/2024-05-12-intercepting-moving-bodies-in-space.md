@@ -6,6 +6,7 @@ description:
 
 tags: miscellaneous-math-fun
 categories:
+disqus_comments: true
 ---
 
 I find the cross between Physics and Finance/Economics pretty interesting. There are some statistical methods that are used across both fields and some other stuff as well that I probably am not aware of, but what I find really intriguing is the cross migration of those in the respective fields. The beginnings of quantitative finance happened with a bunch of physics people going into finance. I have had profs who started out in physics and ended up in econ, and myself (and even also a Fed friend as well), the first academic field that I found interesting was physics (specifically the type of stuff you see in books like "The Universe in a Nutshell" by Stephen Hawking). I think it is pretty rare, however, for someone to start in econ/finance and end up in physics (probably in large part due to the money prospects in econ/finance and the extreme difficulty in making a mark in physics). Regardless, from time to time I get really interested in physics questions and now find myself with the math tools to be able to ask and answer very basic questions (and also for some reason, probably just because of my math training at CMU, find it so much easier to visualize and put into math the interactions that I am curious about). The attached document is regarding a question that I have thought about a lot and is something that I think a lot of people take for granted but is actually a lot more nuanced than one would think.

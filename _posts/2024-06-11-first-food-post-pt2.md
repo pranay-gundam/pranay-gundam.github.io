@@ -6,6 +6,7 @@ description:
 
 tags: the-pittsburgh-palate
 categories:
+disqus_comments: true
 ---
 
 I'm still cooking up another game theory-related post that will take a bit more time to finish (and so here is another Pittsburgh related food post). The last post covered only some of the neighborhoods in Pittsburgh, so here is the other batch of places that the typical CMU student only goes to sometimes.

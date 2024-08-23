@@ -6,6 +6,7 @@ description: (All of the text of this post was written on December 25th, 2023 wh
 
 tags: econ-thoughts personal-updates
 categories:
+disqus_comments: true
 ---
 
 (Note: All of the text of this post was written on December 25th, 2023 while the attached pdf has been edited recently)

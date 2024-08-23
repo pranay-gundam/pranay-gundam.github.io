@@ -6,6 +6,7 @@ description:
 
 tags: personal-updates tidy-tuesday
 categories:
+disqus_comments: true
 ---
 
 I have not posted in quite a while and this is mostly because I have been migrating my old website to this new one (which is also thanks to another new friend)! There are still some formatting kinks I want to work out and I need to figure out how to add both a comments section and an email subscriber button, but this will be my website for a long while to come (I am, for the first time, actually quite satisfied with it except for some very minor formatting issues).

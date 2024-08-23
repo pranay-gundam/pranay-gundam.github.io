@@ -6,6 +6,7 @@ description:
 
 tags: econ-thoughts tidy-tuesday
 categories:
+disqus_comments: true
 ---
 
 I wanted to start off by saying that Github Co-Pilot is amazing. I'm not super sure about the specifics of what it trains on but it has to somehow look at my git tracked code and give suggestions based on my coding style which is just spectacular. Often times the most demoralizing part of doing a coding project is typing out tedious code that one knows how to write but just takes effort and unnessary mental energy (especially if there are some unintended bugs). Co-Pilot bypasses all of that with just one keystroke; more often than not the code that Co-Pilot writes is not buggy (especially if it's something not particularly complicated). The greatest thing is that sure you can ask write out a detailed prompt in the chat window for AI to interpret and answer, but Co-Pilot also has an autocomplete feature where you can only write out the name of the function and it does the rest for you (sometimes it even knows what function you want to write next before you type out the name).

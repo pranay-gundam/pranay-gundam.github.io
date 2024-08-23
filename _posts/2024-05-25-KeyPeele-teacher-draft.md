@@ -6,6 +6,7 @@ description:
 
 tags: econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 Back in high school, I watched a lot of Key and Peele. One of my favorite skits was "If We Treated Teachers Like Pro Athletes" (the video below).

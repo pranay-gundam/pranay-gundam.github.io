@@ -6,6 +6,7 @@ description:
 
 tags: tidy-tuesday
 categories:
+disqus_comments: true
 ---
 
 <iframe src="{{ '/assets/pdf/state-names.pdf' | relative_url }}" width="100%" height="1000px"></iframe>

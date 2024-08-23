@@ -6,6 +6,7 @@ description:
 
 tags: the-pittsburgh-palate
 categories:
+disqus_comments: true
 ---
 
 I did promise a few posts back that I would start to post a bit more about food. Cooking and learning about (and eating of course) food are pretty big parts of my life in terms of interests. It developed a lot from being in a family/extended family that values food a lot as well and because of that, I watched a lot of food-related shows during high school/college (which brought about the interest in learning about food from different cultures and the basics of cooking techniques). Even now, although I don't watch many shows related to food, there are a lot of YouTubers I watch and some books that I enjoy reading.

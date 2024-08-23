@@ -6,6 +6,7 @@ description:
 
 tags: tidy-tuesday
 categories:
+disqus_comments: true
 ---
 
 I promise the first TidyTuesday post is coming soon. In terms of what to expect: each post will be a bit different based on the specific dataset for that week and the type of interesting questions one can ask about it. It's a learning process, and I'm sure my writing will start out quite tame. The inherent purpose is to get better at asking questions, get more practice writing in an academic manner, and become more accustomed to statistics, machine learning, and econometrics tools.

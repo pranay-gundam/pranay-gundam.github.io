@@ -6,6 +6,7 @@ description:
 
 tags: personal-updates
 categories:
+disqus_comments: true
 ---
 
 Well... it has been a little while since my last post. I have a lot that I want to write about both in terms of economics and updates about what has been going on in my life. The first thing I want to talk about is my relationship with reading. It has not been a consistent habit of mine throughout college. There were only a few select books that interested me enough to finish them. I really recommend *Mountain in the Sea* by Ray Nayler. Other than my senior year of high school, I had not read much throughout high school either. This habit was partially disrupted by the sense that as I matured, I was supposed to read more "mature" books; non-fiction books about how the world works and how to be a more knowledgeable member of society.

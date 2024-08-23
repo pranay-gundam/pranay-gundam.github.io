@@ -6,6 +6,7 @@ description: Note, Some spoilers for the Remembrance of Earth's Past series
 
 tags: econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 I have been getting a lot of ideas/questions from the Remembrance of Earth's Past series. One of the concepts that shows up towards the end of the second book, The Dark Forest, and is discussed in a lot more detail in the third book, Death's End, is the deterrence through mutually assured destruction or MAD.

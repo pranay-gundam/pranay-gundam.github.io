@@ -6,6 +6,7 @@ description:
 
 tags: econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 Taking CS courses at CMU (especially 15-112) ingrained in me a few principles of OOP that are very relevant when it comes to building packages. While they may seem like very boring and redundant rules at times (such as using getter functions to get information from an object as opposed to directly accessing their attributes), there are obvious long-term benefits of following these practices. I cringe internally whenever I encounter something that goes against those practices (probably a subconscious response as a result of losing many homework points back in the day). I've realized more and more how hard it is to uphold that standard in the workforce, especially under time constraints or due to laziness in debugging, but also how much going against that standard deeply demotivates me. I've taken up a new commitment to adhere to what I consider to be satisfying coding no matter how long it takes.

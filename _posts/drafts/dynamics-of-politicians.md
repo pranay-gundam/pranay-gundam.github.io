@@ -6,6 +6,7 @@ description:
 
 tags: econ-thoughts
 categories:
+disqus_comments: true
 ---
 
 I went to a Stephen Colbert recently (you can actually see me in a few of the audience shot), and all things considered it was quite the interesting experience. Everything is very streamlined (it makes sense given that they have a lot of practice with it) down to even the bathroom breaks, and they do a lot of encouraging to the audience to have big reactions to jokes or guests coming on stage which is something that I expected but being in the audience live does give you a difference sense of responsibility for enriching the experience of the TV audience.
