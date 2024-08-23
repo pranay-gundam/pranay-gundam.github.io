@@ -24,5 +24,3 @@ I'll detail one such model soon, but just for some context we can make to the ar
 - For games with sequential actions, we can represent the problem as nested games with each action taken further filtering the state spacetakes.
 
 With all that in mind, let's try to construct a model for a Cold War-type situation between two world powers.
-
-<iframe src="{{ '/assets/pdf/modeling-MAD.pdf' | relative_url }}" width="100%" height="1000px"></iframe>
