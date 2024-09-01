@@ -6,6 +6,7 @@ description:
 
 tags: personal-updates
 categories:
+disqus_comments: true
 ---
 
 The pressure from all the upcoming deadlines is really rearing its head now. I personally find it best to just set my mind to focus on one thing at a time; for example, during college, I could just set out an order in which to do all the problem sets I had and just focus solely on each one until they were done. However, I think that strategy does not bode well in a situation where I have to do my normal Fed work, NSF, GRE, etc. It's not the worst; it's just that I have to get really good at shifting modalities, but I've been slowly getting better at it.
