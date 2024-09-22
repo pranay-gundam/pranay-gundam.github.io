@@ -6,7 +6,7 @@ description:
 
 tags: personal-updates tidy-tuesday
 categories:
-disqus-comments: true
+disqus_comments: true
 ---
 
 I've been watching this YouTuber recently called *Quantum Boy*. His videos are poetry to me, both in his video editing style and in how much I relate to him personally. He's currently a Physics PhD student in Boston, and seeing him explore the city reminded me of the nostalgic and wonder-filled lens through which I viewed the world around me during my early days in Pittsburgh. Maybe it's the subway heat and grime, but that's not the way I view New York. It could also be that this lens gets applied with both time and distance, but that's not something I can tell for a while later. I definitely don't regret any way that I've used my time here so far, but if there is one thing I do regret, it is not developing that sense of attachment to the city. That being said, I may or may not be leaving for a different city in a year, so this is something that I'll be keeping in mind going into grad school. Outside of that, though, in watching *Quantum Boy*, I've realized that no matter what, the one thing I do want in my new place next year is a blackboard installed into the wall (and some Hagoromo chalk to go with it too).
