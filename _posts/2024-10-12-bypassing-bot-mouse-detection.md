@@ -1,0 +1,37 @@
+---
+layout: post
+title: bypassing bot detection through mouse movements
+date: 2024-10-12 23:47:00
+description: 
+
+tags: miscelaneous-math-fun
+categories:
+disqus_comments: true
+---
+
+I'm currently on a bus to DC for the weekend and have gotten tired on working on econ things for now so here I am talking about this. I had a conversation with work friend last week about CAPTCHA and RECAPTCHA, you know I had to pull the CMU flex and talk about how the guy who made that was a CMU professor and how they managed to make hella money off of it from the New York Times, and the conversation strayed into the general realm of bot detection. He was telling me how for some of the new Google bot detection stuff they track the movement of your cursor when you go to interact with whatever puzzle they give you. The very basic main idea is that humans don't move in perfect straight lines and "botters" (if that is indeed the adjective to describe them, maybe botists or botmens/botwomans/botpeople) are sometimes too lazy to bother making the cursor move in some more nuanced way. At a higher level even if the botter were to make the cursor move in curves there is still a mathematical difference between a perfect curve and imperfect ones.
+
+This got me thinking about strategies to make the cursor move in a nonbotlike manner. After doing more research later, I also found out that the speed of one's cursor at different parts of the path is also a big tell in differentiating between a persion and a bot. Specifically a human tends to move the cursor faster the further they are from the target and then make smaller slower micro adjustments the closer they get. I tried paying attention to my mouse movements for a bit and saw that the "strategy" I used was also dependent on the size and position of the target. Meaning my approach curve and speed was not independent of the position and also very dependent on the size. For example, when I want to manually click on a tab to switch to on chrome, I tend to move the cursor very fast with disregard for vertical precision because there's no such thing as vertically overshooting a target that is already at border of the screen. In another case, when I'm not conscioulsy aware of where my cursor is positioned initially, I will move the cursor directly horizontal or directly vertical until I visually see where it is and then error correct respectively. At it's core, I feel like human behavior is all about iterative error correction which reminds me a lot of stochastic gradient descent.
+
+I'll talk about a few methods that came to mind in order of simple to most complicated but ultimately from my qualitative view of how I personally move the cursor, I think the key to acting like a human is to act "stochastically predictable".
+
+**1. Straight line movement**
+This is pretty simple to understand, there is a target pixel at coordinates $$(x_T,y_T)$$ and the cursor starts at coordinates $$(x_0, y_0)$$. We then draw a simple line between the two points and move the cursor at some speed (or variable speed). Specifically, we choose some time unit $$t'$$ we want the total travel time of the cursor to be and some update frequency $$s'$$ (meaning every $$s'$$ milliseconds we update the position of the cursor). This means that at the i-th update of the cursor, it is at the coordinates $$\left(i\cdot\frac{s'(x_T - x_0)}{t'}, i\cdot\frac{s'(y_T - y_0)}{t'}\right)$$. We can pull some other shenanigans too with changing the speed of the cursor the closer we get to the target and I'll show the math for that too now itself when the curve math is simple. I'm not super sure how other people do this but my first thought when considering variable speed is writing some dynamics for velocity or acceleration. One simple case is with constant acceleration $$a'$$ so that velocity decreases at a constant rate. In the last constant velocity case the velocity vector was $$\left(\frac{s'(x_T - x_0)}{t'},\frac{s'(y_T - y_0)}{t'}\right)$$ and in this case we need to determine some initial velocity $$(v_{0,x}, v_{0,y})$$ and can write the position of the cursor at the i-th update as $$(x_0 + i\cdot v_{0,x} + \frac{1}{2}\cdot i^2\cdot \frac{2(x_T - x_0 - v_{0,x}t')}{t'^2}, y_0 + i\cdot v_{0,y} + \frac{1}{2}\cdot i^2\cdot \frac{2(y_T - y_0 - v_{0,y}t')}{t'^2})$$. In general though, I don't think that people move with constant accerlation so it's probably wise to have some sort of stochastic principle for this acceleration term at each timestep.
+
+**2. Moving in a sequence of straight lines**
+Think of this like the more discrete and fine tuned version of moving in a direct line. There are basically two approached, either you write some specific algorithmic manner of diverging away from the target or you do it stochastically but still make sure the path converges to the target. In actual practice, I think there are a few ways one can do this. The first that comes to mind is at each update step to draw a direct line from the current position to the target and place and have some predetermined idea for what percentage of the of the way the cursor will travel based on which i-th update step one is on. Then we preturb this i-th step target coordinate stochastically somehow or even preturb the angle of approach by drawing the pertubations from some distribution with mean zero.
+
+The final issue to consider here is the issue of speed. Since we discretize the steps, choosing a different constant speed for each step that decreases the closer we are to the target makes and this simulates having some acceleration. Then again, we can do a similar thing as above and be a bit more random than that.
+
+The one issue that I can preemptively see from this approach is cases where you never reach the target or generally taking too far steps away from the target leading to convergence towards the target way too late. People don't generally overshoot or diverge from their target a crazy amount. Handling this will definitely require some level of calibration of how much randomness should be in the process but I also think it would be wise to make the randomness decrease the closer the cursor is to the target.
+
+**3. Moving in curves**
+This is basically the same concept as the previous case except you move in a curve instead of a series of straight lines. There is some math principle called Bézier curves to draw such curves which also happens to be a process that one can imbue a lot of randomness into.
+
+**4. Considering human behavior**
+I mentioned a few behaviors above that I personally tend to have when moving my mouse but
+
+**5. The ML perspective**
+At the end of the day, there is also the approach of throwing everything into some ML model with a bunch of examples of human made and robot made curves and speeds.
+
+All this is interesting to talk about from a ideation perspective but I feel like making some animations or seeing the cursor actually move would be much cooler. It's a type of project that I am really interested to do for the sake of making something cool but not sure when I'll get the time. This type of stuff reminds me of what Shane from [Stuff Made Here](https://www.youtube.com/c/StuffMadeHere) does; he gets to work on all these cool projects that one would not usually be able to with a unrelated job.
