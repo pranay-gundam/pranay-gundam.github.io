@@ -18,8 +18,11 @@ There's this app called Beli that a lot of New Yorkers have. It's a food rating 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Lucali.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Lucali.jpg" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
     </div>
+</div>
+<div class="caption">
+    The shallot garlic pizza
 </div>
 
 - **Oxomoco**: I've always felt like I've been to a michelin star restaurant in NYC, but other than a pastry popup from Eleven Madision Park, I cannot remember having been to another before Oxocomo. If that's the case then Oxomoco is officially the first michelin star restaurant that I've been to (it has one star). It wasn't mind blowing by any means but it was damn good food. We actually got two appetizers for free (due to some small hair in the tortilla chip), the guac n' chips and the salsa n' chips, both of which have given me some inspiration for when making my own guac and salsa. The main star of the show that I hard heard about were the tacos. I don't think the brunch menu has all their tacos but I thoroughly enjoyed the ones I tried: the beet taco and the lamb barbacoa taco. I could speak a lot more about both in detail but the main idea takeaway is that Oxomoco does very well at finding a theme for each of their tacos and designing a well-rounded taste/presentation experience around them.
@@ -30,7 +33,7 @@ There's this app called Beli that a lot of New Yorkers have. It's a food rating 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Radio Bakery.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Radio Bakery.jpg" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
     </div>
 </div>
 <div class="caption">
@@ -64,7 +67,7 @@ There's this app called Beli that a lot of New Yorkers have. It's a food rating 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Phoenicia Diner.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Phoenicia Diner.jpg" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
     </div>
 </div>
 <div class="caption">
