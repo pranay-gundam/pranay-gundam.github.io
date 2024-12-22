@@ -37,7 +37,11 @@ There's this app called Beli that a lot of New Yorkers have. It's a food rating 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Radio Bakery.jpg" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -71,7 +75,11 @@ There's this app called Beli that a lot of New Yorkers have. It's a food rating 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Oct-Nov-Dec Food Post/Phoenicia Diner.jpg" class="img-fluid rounded z-depth-1" style="width: 20%;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
