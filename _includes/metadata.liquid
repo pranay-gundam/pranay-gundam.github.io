@@ -140,6 +140,10 @@
     {% capture link %}https://www.quora.com/profile/{{ site.quora_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
+  {% if site.goodreads_username %}
+    {% capture link %}https://www.goodreads.com/user/show/154200353-{{ site.goodreads_username }}{% endcapture %}
+    {% assign sameaslinks = sameaslinks | push: link %}
+  {% endif %}
   {% if site.blogger_url %}
     {% capture link %}{{ site.blogger_url }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}

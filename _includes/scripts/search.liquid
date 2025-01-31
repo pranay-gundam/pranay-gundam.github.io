@@ -295,6 +295,16 @@
             },
           },
         {%- endif -%}
+        {%- if site.goodreads_username -%}
+          {
+            id: 'socials-goodreads',
+            title: 'Goodreads',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://www.goodreads.com/user/show/154200353-{{ site.goodreads_username }}", "_blank");
+            },
+          },
+        {%- endif -%}
         {%- if site.flickr_id -%}
           {
             id: 'socials-flickr',

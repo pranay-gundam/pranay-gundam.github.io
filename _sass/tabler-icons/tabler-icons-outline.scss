@@ -735,6 +735,7 @@ $ti-icon-brand-github-copilot: unicode("f4a8");
 $ti-icon-brand-gitlab: unicode("ec1d");
 $ti-icon-brand-gmail: unicode("efa2");
 $ti-icon-brand-golang: unicode("f78d");
+$ti-icon-brand-goodreads: unicode("ec1f");
 $ti-icon-brand-google: unicode("ec1f");
 $ti-icon-brand-google-analytics: unicode("edcb");
 $ti-icon-brand-google-big-query: unicode("f612");
@@ -6678,6 +6679,9 @@ $ti-icon-zzz-off: unicode("f440");
 }
 .#{$ti-prefix}-brand-golang:before {
   content: $ti-icon-brand-golang;
+}
+.#{$ti-prefix}-brand-goodreads:before {
+  content: $ti-icon-brand-goodreads;
 }
 .#{$ti-prefix}-brand-google:before {
   content: $ti-icon-brand-google;
