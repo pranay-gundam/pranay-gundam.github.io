@@ -1,7 +1,7 @@
 ---
 layout: post
 title: economics communication in the public
-date: 2025-01-20 15:30:00
+date: 2025-02-12 18:10:00
 description: 
 
 tags: econ-thoughts
