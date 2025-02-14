@@ -8,8 +8,7 @@ tags: econ-thoughts
 categories:
 disqus_comments: true
 ---
-
-This post is the long awaited (at least for myself) pt. 2 for the post (*the dynamics of incument politicians pt. 1*)[https://pranay-gundam.github.io/blog/2024/dynamics-of-politicians/]. It picks off on the model from last time by actually implementing it and creating a few visuals to look at to get a better sense of how we could look at the incentive structure of politicians from one strategy that economists would use to analyze the question. 
+This post is the long awaited (at least for myself) pt. 2 for the post [*the dynamics of incument politicians pt. 1*](https://pranay-gundam.github.io/blog/2024/dynamics-of-politicians/). It picks off on the model from last time by actually implementing it and creating a few visuals to look at to get a better sense of how we could look at the incentive structure of politicians from one strategy that economists would use to analyze the question.
 
 Now with that said the first thing I need to do tack on some addundum from part one of this post. The number of oversights one makes when the only thing editing is an AI gives me a bit of hope that it won't steal *all* of our jobs. There's not anything neccesarily wrong per say with the model I discussed in part one but I really skimmed over some important details. First, the model I defined last in part one is a little bit different than the canonical job search question in that we have stochastic transitions and the politician's choices affect this transition as well. Second, I definitely should have made the problems regarding the size of the policy space abundantly clear: I went for an ambitious model where the politician has a lot of choices of what they can do in each time, I'm trying to retain these choices but in doing so I have to sacrifice the extent to which the politican can consider each choice for the sake of having my code run in reasonable time.
 
