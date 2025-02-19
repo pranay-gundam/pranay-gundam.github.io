@@ -1,0 +1,18 @@
+---
+layout: post
+title: the career rat race
+date: 
+description: 
+
+tags: econ-thoughts miscelaneous-math-fun
+categories:
+disqus_comments: true
+---
+
+One of the most relevant issues that I have faced since starting schooling is the seemingly endless rat race that is one's educational and career pursuits. As a kid growing up in a run of the mill middle class suburb, this rat race started from a young age with kids being separated for different levels of math classes and reading groups in elementary school, to maximizing the number of AP classes one cuold take at increasingly younger ages. What was once something rare like traveling from our Junior High campus to the Senior High campus to take AP Chemistry every day soon became a norm in the later years and the cycle of continuously trying to gain the upper leg always advances. I've seen a lot of this behavior now too in the context of economics graduate applications. 
+
+At a purely reactionary and emotional level, this rat race strikes me as unfair. Why is it that the new generation is forced to deal with an increasingly competitive environment that always demands more effort? Why is it that the academics of older times were on average able to lead such unfocused lives and end up in the place that they are right now? It seems as if it is increasingly becoming the case that to reach the same goals, one has to be more premeditating, more singularly driven all from an earlier age than those that have come before. Surely there has to be some limiting factor other than age for what experience one can squish in to gain an upper hand later on.
+
+On the other hand, from the lens of an economist: I wonder more so about how the race got to where it is now and what equilibrium it will tend itself towards rather than if it's fair or not. Since the economics phd application process is what I have experienced most recently I'll focus on that, but a lot of points have parallels in other fields as well. The push and pull dynamics here at play seem straightforward; the demand for economics phd degrees is pretty high (I'm not so sure about the trend of the demand but I would like to say it is at the very least not decreasing) relative to supply so there is a pushing force on applicants to boost their resume relative to others, and the supply of such opportunities to gain experience before entering the applicant pool rises to meet that demand as well in the form of masters programs or predocs. It is quite uncommon nowadays for a student to gain admission into an econ phd program without having done either a predoc or a masters and not so uncommon for someone to have done multiple predocs/masters. [PUT A FOOTNOTEHERE TO EXPLAIN WHAT A PREDOC IS]. The main pull force that deter an individual is simply that all these experiences before graduate school take time and either cost money or put a delay on one's higher money earning capabilities in the future. This model so far incentivizes a world where people who have a lot of time, money, and industry knowhow to succeed. People who have no time or money constraints can take the time to build their experience before applying to phd programs, and people who know already how academia works can plan out their path from an early age. Qualitatively, this usually means socio-economically priveleged groups of people. I would argue, however, that the real world has another pull force: the cost of the homogeneity of applicant pool. I don't think we have seen any specific costs that I can quantitatively point out to just yet but the main idea is that 
+
+- similar groups have similar lived experiences and similar levels of creativity
