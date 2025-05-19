@@ -14,9 +14,6 @@ Now with that said the first thing I need to do tack on some addundum from part 
 
 One other technique I forgot to mention (that I haven't really seen in the econ literature/classes but is a pretty relevant method for reinforcement learning in ML) is Q-learning. This is a method that is very applicable in the scenario that I am discussing right now and I haven't yet seen (although I am near positive that they exist) any problems in macro with stochastic transisions that depend on the action that the agent takes. In this case the politician's transition probabilities into become elected in or "elected out" is itself dependent on both how much they spend on the elected and how they vote. For now, I did the value iteration by considering the expected value of the transition probability, but I'm also going to implement a Q-Learning thing as well just to see if they converge to the same value/policies (and for practice).
 
-{% raw %}
-
-```liquid
 {::nomarkdown}
 {% assign jupyter_path = 'assets/jupyter/incumbent-politicians.ipynb' | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/incumbent-politicians.ipynb %}{% endcapture %}
@@ -26,6 +23,3 @@ One other technique I forgot to mention (that I haven't really seen in the econ 
   <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}
 {:/nomarkdown}
-```
-
-{% endraw %}
