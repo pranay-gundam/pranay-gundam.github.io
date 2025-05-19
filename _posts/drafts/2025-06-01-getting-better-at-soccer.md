@@ -1,7 +1,7 @@
 ---
 layout: post
 title: getting better at soccer
-date: 
+date: 2025-06-01 12:00:00
 description: 
 
 tags: econ-thoughts

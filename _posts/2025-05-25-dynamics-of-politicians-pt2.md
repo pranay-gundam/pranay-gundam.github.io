@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the dynamics of incumbent politicians pt. 2
-date: 2025-05-19 10:49:00
+date: 2025-05-25 10:49:00
 description: 
 
 tags: econ-thoughts
