@@ -46,4 +46,6 @@ I had started keeping up with my Beli for a month or two after my last food in N
 
 - **Omar's Medditeranean Cuisine**: 
 
+- **Smor's Bakery**:
+
 I have a list of places I still want to hit up before I leave the city. Now that I am writing all of this down 
