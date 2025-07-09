@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /contact/
-title: Contact
+permalink: /subscribe/
+title: Subscribe
 nav: true
 nav_order: 6
 ---
-
 <h2>Subscribe to get email notifications for new blog posts and more!</h2>
 
 <div id="mc_embed_shell">
@@ -16,7 +15,7 @@ nav_order: 6
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-    <form action="https://github.us14.list-manage.com/subscribe/post?u=5e123f82ec22d56a5ae46b63b&amp;id=50f4e808cb&amp;f_id=00ba53e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+    <form action="https://github.us14.list-manage.com/subscribe/post?u=5e123f82ec22d56a5ae46b63b&id=50f4e808cb&f_id=00ba53e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll">
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
