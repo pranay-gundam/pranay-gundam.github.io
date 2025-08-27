@@ -1,12 +1,12 @@
 ---
 layout: page
-title: PhD Macro I Codebase
-description: Some code I wanted to write to help cement my understanding of concepts in ECON-GA 1025 (Phd Macroeconomics I) at NYU with Sargent and Ljungqvist.
+title: PhD Economics Codebase
+description: Some code and notes from my graduate economics coursework.
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
-github: https://github.com/pranay-gundam/PhDMacro-I
+github: https://github.com/pranay-gundam/PhD-Economics-Coursework
 ---
 
 Every project has a beautiful feature showcase page.
