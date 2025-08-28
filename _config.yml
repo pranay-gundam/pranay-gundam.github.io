@@ -322,6 +322,8 @@ scholar:
   query: "@*"
   group_by: year, month
   group_order: descending, descending
+  type_order: [techreport, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, unpublished]
+type_names: {techreport: Working Paper}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

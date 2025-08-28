@@ -12,12 +12,7 @@ display_categories: [work]
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2>Working Papers</h2>
-
-<br />
-<br />
-
-<h2>Published Papers</h2>
+<h2>Papers</h2>
 {% bibliography %}
 
 <br />
