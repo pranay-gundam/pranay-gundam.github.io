@@ -1,10 +1,10 @@
 ---
 layout: post
 title: a love letter to nyc
-date: 2025-08-05 19:00:00
+date: 2025-08-27 19:00:00
 description: 
 
-tags:personal-updates econ-thoughts
+tags: personal-updates econ-thoughts
 categories:
 disqus_comments: true
 ---
