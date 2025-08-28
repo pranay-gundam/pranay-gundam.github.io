@@ -320,8 +320,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year, month
-  group_order: descending, descending
+  group_by: year
+  group_order: descending
   type_order: [techreport, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, unpublished]
   type_names: {techreport: Working Papers}
 
