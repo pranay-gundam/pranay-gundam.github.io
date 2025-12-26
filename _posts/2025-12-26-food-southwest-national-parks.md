@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Food of "Southwest National Parks Trip 2025"
+title: Food of Southwest National Parks Trip 2025
 date: 2025-26-12 16:00:00
 description: 
 
