@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Food of "Southwest National Parks Trip 2025"
+title: Food of 'Southwest National Parks Trip 2025'
 date: 2025-12-26 16:00:00
-description: I think I'm going to call this series the "Food of '...'" series
+description: I think I'm going to call this series the 'Food of ...' series
 
 tags: the-pittsburgh-palate
 categories:
