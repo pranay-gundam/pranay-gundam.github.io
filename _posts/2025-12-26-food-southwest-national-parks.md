@@ -52,7 +52,7 @@ Finally, the least enjoyed dish out of everything was the  *roasted squash* . It
     </div>
 </div>
 <div class="caption">
-    Food from Atria, from top left to bottom right: Bread, Roasted Beets, Squash Agnolotti, Cacio e Pepe, Roasted Squash
+    Food from Atria, from left to right: Bread, Roasted Beets, Squash Agnolotti, Cacio e Pepe, Roasted Squash
 </div>
 
 I will end this section about Atria with two caveats about my review. The first is that I didn’t have any meat dish which spans most of the menu. I’ll be sure to try more next time I go, but the meat dishes of people next to me looked good as well. Second, they reused a lot of the same components for the vegetarian dishes. There was a lot of Macha salsa and squash puree across everything that we ate and I felt it would have gotten a little tiring if we had a few more dishes with them. As a whole though, this was the best meal of the trip and my best meal at a restaurant in a while.
