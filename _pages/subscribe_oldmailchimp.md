@@ -2,7 +2,7 @@
 layout: page
 permalink: /subscribe/
 title: Subscribe
-nav: true
+nav: false
 nav_order: 6
 ---
 <h2>Subscribe to get email notifications for new blog posts and more!</h2>
