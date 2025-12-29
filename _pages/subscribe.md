@@ -2,6 +2,7 @@
 layout: default
 title: Subscribe
 description: link to the substack!
+permalink: /subscribe/
 redirect: https://pranaygundam.substack.com/
 nav: true
 nav_order: 6
