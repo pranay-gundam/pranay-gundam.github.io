@@ -15,3 +15,5 @@ nav_order: 1
 </ul>
 
 <h4>University of Minnesota</h4>
+
+* Fall 2026, <a href="{{ site.baseurl }}/econ1101/">Principles of Microeconomics (Econ 1101)</a>
