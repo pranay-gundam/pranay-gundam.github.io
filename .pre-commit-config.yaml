@@ -8,3 +8,17 @@ repos:
       - id: end-of-file-fixer
       - id: check-yaml
       - id: check-added-large-files
+  - repo: local
+    hooks:
+      # Mirrors .prettierrc. The plugin is loaded by path (with --no-config) because
+      # pre-commit installs it in its own node env, where .prettierrc can't find it by name.
+      - id: prettier
+        name: prettier
+        language: node
+        additional_dependencies:
+          - prettier@3.9.10
+          - "@shopify/prettier-plugin-liquid@1.11.3"
+        entry: >-
+          bash -c 'prettier --write --ignore-unknown --no-config --print-width 150 --trailing-comma es5
+          --plugin "$NODE_VIRTUAL_ENV/lib/node_modules/@shopify/prettier-plugin-liquid/dist/index.js" "$@"' --
+        types: [text]
