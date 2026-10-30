@@ -2,12 +2,13 @@
 layout: post
 title: the career rat race
 date: 2025-06-28 12:00:00
-description: 
+description:
 
 tags: econ-thoughts
 categories:
 disqus_comments: true
 ---
+
 One of the most relevant issues that I have faced since starting schooling is the seemingly endless rat race that is one's educational and career pursuits. As a kid growing up in a run of the mill middle class suburb, this race began early—with kids being sorted into different levels of math classes and reading groups in elementary school, to maximizing the number of AP classes one could take at increasingly younger ages. What was once something rare like traveling from our Junior High campus to the Senior High campus to take AP Chemistry every day soon became a norm in the later years and the cycle of continuously trying to gain the upper leg keeps accelerating. I've seen a lot of this behavior now too in the context of economics graduate applications.
 
 At a purely reactionary and emotional level, this rat race strikes me as unfair. Why is it that the new generation is forced to deal with an increasingly competitive environment that always demands more effort? Why were academics of earlier generations seemingly able to lead less hyper-focused academic lives and end up in the place that they are right now? It seems as if it is increasingly becoming the case that to reach the same goals, one has to be more deliberate, more singularly driven, all from an earlier age than those that have come before. Surely there has to be some limiting factor other than age for what experience one can squish in to gain an upper hand later on.

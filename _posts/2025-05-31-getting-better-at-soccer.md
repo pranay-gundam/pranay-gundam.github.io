@@ -2,12 +2,13 @@
 layout: post
 title: getting better at soccer
 date: 2025-05-31 12:00:00
-description: 
+description:
 
 tags: personal-updates
 categories:
 disqus_comments: true
 ---
+
 I've mentioned this on the blog before, but one of the best things about moving to NYC for me has been being able to play soccer again. There was a tournament that had been running over the past few months, and it just wrapped up — our team came in second (after a grueling 3–2 loss in the finals). I ended up winning the golden boot with 14 goals and I actually learned a lot about both soccer and myself along the way.
 
 Before coming to NYC, I had basically quit playing soccer by the end of 10th grade. This was a significant decision, given that I'd been playing since 1st grade and had even reached the highest non-academy league level in Dallas during 8th and 9th grade. There was some sort of national ranking system (which, to be honest, I'm not entirely sure how it worked) that placed our team somewhere around 100th in the U.S. Despite playing at that level, I don't think I was actually very good. I had made it there by relying on a mix of raw athleticism and the leftover confidence I had from my early, non-competitive days as a striker. That was enough to get me in, but nowhere near enough to keep me there.

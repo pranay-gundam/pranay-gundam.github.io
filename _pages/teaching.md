@@ -5,6 +5,7 @@ title: Teaching
 nav: true
 nav_order: 1
 ---
+
 <h4>Carnegie Mellon University</h4>
 <ul>
   <li><a target="_blank" href="http://www.cs.cmu.edu/~mgormley/courses/10601-s23/">Spring 2023, Introduction to Machine Learning (10-301/601), Prof Matt Gormley</a></li>
@@ -16,4 +17,4 @@ nav_order: 1
 
 <h4>University of Minnesota</h4>
 
-* Fall 2026, <a href="{{ site.baseurl }}/econ1101/">Principles of Microeconomics (Econ 1101)</a>
+- Fall 2026, <a href="{{ site.baseurl }}/econ1101/">Principles of Microeconomics (Econ 1101)</a>

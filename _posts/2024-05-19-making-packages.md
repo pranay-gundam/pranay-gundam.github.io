@@ -2,7 +2,7 @@
 layout: post
 title: Making packages, OLGs (again?), and Time Averaging Taxation Paper
 date: 2024-05-19 16:32:00
-description: 
+description:
 
 tags: econ-thoughts
 categories:

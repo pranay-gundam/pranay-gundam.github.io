@@ -2,7 +2,7 @@
 layout: post
 title: thoughts about the subway
 date: 2023-11-12 17:43:00
-description: 
+description:
 
 tags: econ-thoughts
 categories:

@@ -2,7 +2,7 @@
 layout: post
 title: physics? (intercepting moving bodies in space)
 date: 2024-05-12 21:04:00
-description: 
+description:
 
 tags: miscellaneous-math-fun
 categories:

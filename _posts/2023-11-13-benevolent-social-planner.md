@@ -2,7 +2,7 @@
 layout: post
 title: the problem of the benevolent social planner
 date: 2023-11-13 18:54:00
-description: 
+description:
 
 tags: econ-thoughts
 categories:
@@ -19,4 +19,4 @@ All this discussion so far brings me to the topic we discussed in class that got
 
 Anyway, the more I write out, the more I am realizing that I am staying true to my initial disclaimer when I started this website, which stated that most of the posts would be stream of consciousness. The main point I am trying to make is that what would happen under a benevolent social planner is likely to be vastly different from the existing stereotypes. For example, benevolent social planners can take into consideration the heterogeneity of agents' preferences (and abilities), and the resulting society is unlikely to be a communist state of total equality. that I feel is often portrayed to be what happens in such a scenario. We definitely don't have the capability to make something that nuances right now, but I believe that at AI and computational ability becomes better (a lot lot lot better) these type of micro planned economies will become feasible (on a side note there was a recent sci-fi book I read called "To Sleep Among a Sea of Stars" that talked about this hybrid human and computer intelligence called ship minds that were able to take on these sorts of complicated tasks).
 
-P.S. Speaking of dystopias, one of the first works of dystopia fiction is this book - originally written in Russian - called *We*. Good read for anyone interested in the genre and it's origins.
+P.S. Speaking of dystopias, one of the first works of dystopia fiction is this book - originally written in Russian - called _We_. Good read for anyone interested in the genre and it's origins.

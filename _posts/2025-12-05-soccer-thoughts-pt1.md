@@ -2,9 +2,9 @@
 layout: post
 title: soccer thoughts pt.1
 date: 2025-12-05 10:00:00
-description: 
+description:
 
-tags: personal-updates 
+tags: personal-updates
 categories:
 disqus_comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: what is all this?
 date: 2023-06-11 19:49:00
-description: 
+description:
 
 tags: personal-updates
 categories:

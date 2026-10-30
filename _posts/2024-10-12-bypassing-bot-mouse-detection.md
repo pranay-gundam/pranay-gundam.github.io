@@ -2,7 +2,7 @@
 layout: post
 title: automated mouse movement
 date: 2024-10-12 23:47:00
-description: 
+description:
 
 tags: miscelaneous-math-fun
 categories:

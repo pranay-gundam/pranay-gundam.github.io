@@ -2,7 +2,7 @@
 layout: post
 title: finally back (post grad apps)
 date: 2024-12-16 08:30:00
-description: 
+description:
 
 tags: personal-updates miscellaneous-math-fun
 categories:

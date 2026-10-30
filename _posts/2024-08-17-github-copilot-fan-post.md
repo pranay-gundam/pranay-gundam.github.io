@@ -2,7 +2,7 @@
 layout: post
 title: spatial models update and stanning for github copilot
 date: 2024-08-17 19:10:00
-description: 
+description:
 
 tags: econ-thoughts tidy-tuesday
 categories:

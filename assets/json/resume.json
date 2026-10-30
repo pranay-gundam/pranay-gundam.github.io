@@ -11,7 +11,7 @@
       "city": "New York City",
       "countryCode": "US",
       "region": "New York"
-    }    
+    }
   },
 
   "work": [
@@ -22,7 +22,7 @@
       "summary": "Work on the DSGE team under Marco Del Negro."
     }
   ],
-  
+
   "education": [
     {
       "institution": "Carnegie Mellon University",
@@ -45,16 +45,14 @@
     {
       "institution": "New York University",
       "location": "New York City, NY, USA",
-      "area": "Graduate Coursework in Economics and Mathematics", 
+      "area": "Graduate Coursework in Economics and Mathematics",
       "studyType": "Non-degree",
       "startDate": "2023-09",
       "score": "10",
-      "courses": ["(PhD) Macroeconomic Theory I: Thomas J. Sargent, Lars Ljungqvist",  "(Graduate) Math Analysis II: Aaditya Rangan"]
+      "courses": ["(PhD) Macroeconomic Theory I: Thomas J. Sargent, Lars Ljungqvist", "(Graduate) Math Analysis II: Aaditya Rangan"]
     }
-
-
   ],
-  
+
   "publications": [
     {
       "name": "The New York Fed DSGE Model: A Post-Covid Assessment",
@@ -80,7 +78,6 @@
       "fluency": "Intermediate",
       "icon": ""
     }
-
   ],
   "interests": [
     {

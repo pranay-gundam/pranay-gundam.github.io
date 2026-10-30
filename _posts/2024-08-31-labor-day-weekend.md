@@ -2,7 +2,7 @@
 layout: post
 title: labor day weekend
 date: 2024-08-31 19:30:00
-description: 
+description:
 
 tags: personal-updates
 categories:

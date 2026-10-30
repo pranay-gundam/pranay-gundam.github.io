@@ -1,10 +1,9 @@
 ---
 layout: post
 title: effectiveness of DEI
-date: 
-description: 
+date:
+description:
 
 tags: econ-thoughts
 categories:
 ---
-

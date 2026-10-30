@@ -1,0 +1,7 @@
+# Sites that block automated link checkers (403) but work in a browser
+^https?://(www\.)?reddit\.com
+^https?://(www\.)?intmath\.com
+^https?://stackoverflow\.com
+# Dead or private links referenced in older posts
+^https://birdbox\.nyc
+^https://github\.com/pranay-gundam/spatial-sims

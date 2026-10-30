@@ -2,7 +2,7 @@
 layout: post
 title: prefacing the first post
 date: 2023-08-04 23:07:00
-description: 
+description:
 
 tags: tidy-tuesday
 categories:

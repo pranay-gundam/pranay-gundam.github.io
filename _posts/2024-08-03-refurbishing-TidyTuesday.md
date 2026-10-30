@@ -2,7 +2,7 @@
 layout: post
 title: Hello on Github! (and refurbishing TidyTuesday)
 date: 2024-08-03 17:45:00
-description: 
+description:
 
 tags: personal-updates tidy-tuesday
 categories:

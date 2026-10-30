@@ -2,7 +2,7 @@
 layout: post
 title: Getting situated in NYC and TidyTuesday
 date: 2023-06-27 21:24:00
-description: 
+description:
 
 tags: personal-updates tidy-tuesday
 categories:

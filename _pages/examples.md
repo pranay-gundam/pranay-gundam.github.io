@@ -11,7 +11,6 @@ nav_order: 2
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
-
 {% if featured_posts.size > 0 %}
 <br>
 

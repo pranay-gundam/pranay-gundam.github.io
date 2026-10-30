@@ -2,12 +2,13 @@
 layout: post
 title: a love letter to nyc
 date: 2025-08-27 19:00:00
-description: 
+description:
 
 tags: personal-updates econ-thoughts
 categories:
 disqus_comments: true
 ---
+
 I came to nyc a skeptic. Growing up in a Dallas suburb makes one accustomed to a certain spacious life style and convenience of transportation by car. It's a feeling of supremacy that leads to statements like "I would never want to settle down in a big city like New York."
 
 Now that I've moved out, however, I feel quite conflicted. I only lived in nyc for a grand total of 734 days, but I am now connected to it in a way that I would have never thought I would. I used to make fun of the common stereotype of people who move to the city and make cliché claims about how they fell in love with the city and couldn't think of a life outside of it. While I definitely can imagine a life outside of nyc, I leave it with an impression of nyc being the ultimate city. It's as if most other places I visit now have lost their luster and end up underwhelming. There's a big asterisk next to every city I visit that says "this is no New York". Of course there are many pros and cons to living in nyc, but it is damn hard to find a place that checks as many boxes. One of these boxes is neighborhood identity. I haven't lived in a large number of places so far, but one thing that I deeply enjoy in a city is neighborhood identity.

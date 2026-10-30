@@ -6,7 +6,6 @@ description: Writing well written and organized code is a particular passion of 
 nav: true
 nav_order: 3
 display_categories: [work]
-
 ---
 
 <!-- _pages/publications.md -->

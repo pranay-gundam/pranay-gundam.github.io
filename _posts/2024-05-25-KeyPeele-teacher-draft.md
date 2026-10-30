@@ -2,7 +2,7 @@
 layout: post
 title: Key & Peele teacher draft in real life and the benefits of socio-political gridlock
 date: 2024-05-25 11:28:00
-description: 
+description:
 
 tags: econ-thoughts
 categories:

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: the evolution of societal organization
-date: 
-description: 
+date:
+description:
 
 tags: econ-thoughts
 categories:
 disqus_comments: true
 ---
-As of the time I’m starting to write this (1/22/2025), I’ve just finished my first read of *1984* by George Orwell. Beyond thoroughly enjoying the book and rekindling my interest in the dystopian genre, I found that Orwell dedicated a significant portion of the text to discussing social movements—and particularly, how the social movement in the book managed to evolve away from the historical cycles of class struggle. I won’t spoil too much, but the gist of it is that social organization has historically always involved a lower, middle, and upper class, and the book explores how the upper class might hold onto power permanently.
 
-As a quick diversion: every time I feel a renewed passion for a genre—like sci-fi last year—I feel compelled to dive deep into the books that either define or historically shaped that genre. Next on my list are *Animal Farm* by George Orwell, *We* by Yevgeny Zamyatin (which I’ve actually read before but want to revisit), *Brave New World* by Aldous Huxley, and *Utopia* by Sir Thomas More (I've finished these now by the time of publication). Also, I recently added a Goodreads social icon to the [about page](https://pranay-gundam.github.io/) of this website, so check that out if you want an idea of what I’ve been reading since 2024 (it’s not really accurate before then).
+As of the time I’m starting to write this (1/22/2025), I’ve just finished my first read of _1984_ by George Orwell. Beyond thoroughly enjoying the book and rekindling my interest in the dystopian genre, I found that Orwell dedicated a significant portion of the text to discussing social movements—and particularly, how the social movement in the book managed to evolve away from the historical cycles of class struggle. I won’t spoil too much, but the gist of it is that social organization has historically always involved a lower, middle, and upper class, and the book explores how the upper class might hold onto power permanently.
+
+As a quick diversion: every time I feel a renewed passion for a genre—like sci-fi last year—I feel compelled to dive deep into the books that either define or historically shaped that genre. Next on my list are _Animal Farm_ by George Orwell, _We_ by Yevgeny Zamyatin (which I’ve actually read before but want to revisit), _Brave New World_ by Aldous Huxley, and _Utopia_ by Sir Thomas More (I've finished these now by the time of publication). Also, I recently added a Goodreads social icon to the [about page](https://pranay-gundam.github.io/) of this website, so check that out if you want an idea of what I’ve been reading since 2024 (it’s not really accurate before then).
 
 Back to 1984: all this philosophical discussion about social movements introduced ideas I hadn’t really thought about before. The use of the low-middle-high class divide as a framework for understanding social structures got me thinking more broadly about the relationship between wealth distributions and social organization. Economists generally believe that some level of inequality is beneficial. Of course, there are debates about the ideal level or structure of inequality, but very reductively, many of our models are built around the idea that different people have different levels of productivity. That is, their innate abilities and methods of contributing to society differ. Some models even include mechanisms where individuals can invest time and effort to improve their abilities.
 
@@ -28,7 +29,7 @@ That being said, I wanted to finish off the discussion by including a couple of 
 {% assign jupyter_path = 'assets/jupyter/incumbent-politicians.ipynb' | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/incumbent-politicians.ipynb %}{% endcapture %}
 {% if notebook_exists == 'true' %}
-  {% jupyter_notebook jupyter_path %}
+{% jupyter_notebook jupyter_path %}
 {% else %}
   <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}

@@ -2,7 +2,7 @@
 layout: post
 title: food of nyc (jan-jun 2025)
 date: 2024-12-21 08:30:00
-description: 
+description:
 
 tags: the-pittsburgh-palate
 categories:
@@ -14,38 +14,38 @@ I had started keeping up with my Beli for a month or two after my last food in N
 
 - **Apollo Bagels**: Tastefully made
 
-- **Potluck Club**: 
+- **Potluck Club**:
 
-- **Delbar (Atlanta)**: 
+- **Delbar (Atlanta)**:
 
-- **Son Del North**: 
+- **Son Del North**:
 
-- **Carnitas Ramirez**: 
+- **Carnitas Ramirez**:
 
-- **Hani's Bakery**: 
+- **Hani's Bakery**:
 
-- **Her Name is Han**: 
+- **Her Name is Han**:
 
-- **Tonchin**: 
+- **Tonchin**:
 
-- **The Original Soup Kitchen**: 
+- **The Original Soup Kitchen**:
 
-- **Junoon**: 
+- **Junoon**:
 
-- **Madame Vo**: 
+- **Madame Vo**:
 
-- **King Souvlaki**: 
+- **King Souvlaki**:
 
-- **Casa Enrique**: 
+- **Casa Enrique**:
 
-- **Patsy's Pizzeria**: 
+- **Patsy's Pizzeria**:
 
 - **Golden Diner**:
 
-- **Chrissy's Pizza**: 
+- **Chrissy's Pizza**:
 
-- **Omar's Medditeranean Cuisine**: 
+- **Omar's Medditeranean Cuisine**:
 
 - **Smor's Bakery**:
 
-I have a list of places I still want to hit up before I leave the city. Now that I am writing all of this down 
+I have a list of places I still want to hit up before I leave the city. Now that I am writing all of this down
